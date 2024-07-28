@@ -4,7 +4,7 @@ This GitHub repository contains the HTML and TailwindCSS code for a content sect
 The design leverages TailwindCSS for styling, accessed via Play CDN, making it easy to integrate and modify without any installation requirements.
 
 <div align="center">
-  <img src="Capture_Interface.png" width="300" alt="Capture image interface">
+  <img src="captures/Capture-1.png" width="300" alt="Capture image interface">
 </div>
 
 #### Features
