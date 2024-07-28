@@ -5,6 +5,7 @@ The design leverages TailwindCSS for styling, accessed via Play CDN, making it e
 
 <div align="center">
   <img src="captures/Capture-1.png" alt="Capture image interface">
+  <img src="captures/Capture-2.png" width=300px alt="Capture image interface">
 </div>
 
 #### Features
